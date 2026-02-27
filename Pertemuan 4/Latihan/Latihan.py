@@ -11,7 +11,7 @@ finally:
     print('Selesai.')
 
 #Output:
-#Masukkan index (0-2): 0 A -2
+#Masukkan index (0-2): A
 #Harus berupa angka bulat!
 #Selesai.
 
